@@ -1,0 +1,231 @@
+2024/03/06 10:04:18 [notice] 35#35: using the "epoll" event method
+2024/03/06 10:04:18 [notice] 35#35: nginx/1.18.0
+2024/03/06 10:04:18 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/06 10:04:18 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/06 10:04:18 [notice] 35#35: start worker processes
+2024/03/06 10:04:18 [notice] 35#35: start worker process 36
+2024/03/06 10:04:18 [notice] 35#35: start worker process 37
+2024/03/06 10:04:18 [notice] 35#35: start worker process 38
+2024/03/06 10:04:18 [notice] 35#35: start worker process 39
+2024/03/07 20:37:05 [notice] 35#35: signal 15 (SIGTERM) received from 1, exiting
+2024/03/07 20:37:05 [notice] 36#36: exiting
+2024/03/07 20:37:05 [notice] 39#39: exiting
+2024/03/07 20:37:05 [notice] 37#37: exiting
+2024/03/07 20:37:05 [notice] 38#38: exiting
+2024/03/07 20:37:05 [notice] 36#36: exit
+2024/03/07 20:37:05 [notice] 38#38: exit
+2024/03/07 20:37:05 [notice] 37#37: exit
+2024/03/07 20:37:05 [notice] 39#39: exit
+2024/03/07 20:37:05 [notice] 35#35: signal 14 (SIGALRM) received
+2024/03/07 20:37:05 [notice] 35#35: signal 14 (SIGALRM) received
+2024/03/07 20:37:06 [notice] 35#35: signal 17 (SIGCHLD) received from 38
+2024/03/07 20:37:06 [notice] 35#35: worker process 38 exited with code 0
+2024/03/07 20:37:06 [notice] 35#35: worker process 39 exited with code 0
+2024/03/07 20:37:06 [notice] 35#35: worker process 36 exited with code 0
+2024/03/07 20:37:06 [notice] 35#35: signal 17 (SIGCHLD) received from 36
+2024/03/07 20:37:06 [notice] 35#35: signal 14 (SIGALRM) received
+2024/03/07 20:37:06 [notice] 35#35: signal 29 (SIGIO) received
+2024/03/07 20:37:06 [notice] 35#35: signal 17 (SIGCHLD) received from 37
+2024/03/07 20:37:06 [notice] 35#35: worker process 37 exited with code 0
+2024/03/07 20:37:06 [notice] 35#35: exit
+2024/03/08 09:30:50 [notice] 34#34: using the "epoll" event method
+2024/03/08 09:30:50 [notice] 34#34: nginx/1.18.0
+2024/03/08 09:30:50 [notice] 34#34: OS: Linux 5.15.49-linuxkit
+2024/03/08 09:30:50 [notice] 34#34: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/08 09:30:50 [notice] 34#34: start worker processes
+2024/03/08 09:30:50 [notice] 34#34: start worker process 35
+2024/03/08 09:30:50 [notice] 34#34: start worker process 36
+2024/03/08 09:30:50 [notice] 34#34: start worker process 37
+2024/03/08 09:30:50 [notice] 34#34: start worker process 38
+2024/03/11 19:28:12 [notice] 34#34: signal 15 (SIGTERM) received from 1, exiting
+2024/03/11 19:28:12 [notice] 35#35: exiting
+2024/03/11 19:28:12 [notice] 36#36: exiting
+2024/03/11 19:28:12 [notice] 35#35: exit
+2024/03/11 19:28:13 [notice] 38#38: exiting
+2024/03/11 19:28:13 [notice] 37#37: exiting
+2024/03/11 19:28:13 [notice] 37#37: exit
+2024/03/11 19:28:13 [notice] 34#34: signal 14 (SIGALRM) received
+2024/03/11 19:28:12 [notice] 36#36: exit
+2024/03/11 19:28:13 [notice] 38#38: exit
+2024/03/11 19:28:13 [notice] 34#34: signal 14 (SIGALRM) received
+2024/03/11 19:28:13 [notice] 34#34: signal 14 (SIGALRM) received
+2024/03/11 19:28:15 [notice] 34#34: signal 14 (SIGALRM) received
+2024/03/12 11:03:44 [notice] 34#34: using the "epoll" event method
+2024/03/12 11:03:44 [notice] 34#34: nginx/1.18.0
+2024/03/12 11:03:44 [notice] 34#34: OS: Linux 5.15.49-linuxkit
+2024/03/12 11:03:44 [notice] 34#34: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/12 11:03:44 [notice] 34#34: start worker processes
+2024/03/12 11:03:44 [notice] 34#34: start worker process 35
+2024/03/12 11:03:44 [notice] 34#34: start worker process 36
+2024/03/12 11:03:44 [notice] 34#34: start worker process 37
+2024/03/12 11:03:44 [notice] 34#34: start worker process 38
+2024/03/12 20:37:51 [notice] 34#34: signal 15 (SIGTERM) received from 1, exiting
+2024/03/12 20:37:51 [notice] 35#35: exiting
+2024/03/12 20:37:51 [notice] 36#36: exiting
+2024/03/12 20:37:51 [notice] 38#38: exiting
+2024/03/12 20:37:51 [notice] 37#37: exiting
+2024/03/12 20:37:51 [notice] 37#37: exit
+2024/03/12 20:37:51 [notice] 35#35: exit
+2024/03/12 20:37:51 [notice] 36#36: exit
+2024/03/12 20:37:51 [notice] 38#38: exit
+2024/03/12 20:37:51 [notice] 34#34: signal 14 (SIGALRM) received
+2024/03/12 20:37:52 [notice] 34#34: signal 17 (SIGCHLD) received from 36
+2024/03/12 20:37:52 [notice] 34#34: worker process 35 exited with code 0
+2024/03/12 20:37:52 [notice] 34#34: worker process 36 exited with code 0
+2024/03/12 20:37:52 [notice] 34#34: signal 14 (SIGALRM) received
+2024/03/12 20:37:52 [notice] 34#34: signal 29 (SIGIO) received
+2024/03/12 20:37:52 [notice] 34#34: signal 17 (SIGCHLD) received from 38
+2024/03/12 20:37:52 [notice] 34#34: worker process 38 exited with code 0
+2024/03/12 20:37:52 [notice] 34#34: signal 29 (SIGIO) received
+2024/03/12 20:37:52 [notice] 34#34: signal 17 (SIGCHLD) received from 37
+2024/03/12 20:37:52 [notice] 34#34: worker process 37 exited with code 0
+2024/03/12 20:37:52 [notice] 34#34: exit
+2024/03/12 20:42:16 [notice] 35#35: using the "epoll" event method
+2024/03/12 20:42:16 [notice] 35#35: nginx/1.18.0
+2024/03/12 20:42:16 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/12 20:42:16 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/12 20:42:16 [notice] 35#35: start worker processes
+2024/03/12 20:42:16 [notice] 35#35: start worker process 36
+2024/03/12 20:42:16 [notice] 35#35: start worker process 37
+2024/03/12 20:42:16 [notice] 35#35: start worker process 38
+2024/03/12 20:42:16 [notice] 35#35: start worker process 39
+2024/03/14 11:33:01 [notice] 35#35: using the "epoll" event method
+2024/03/14 11:33:01 [notice] 35#35: nginx/1.18.0
+2024/03/14 11:33:01 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/14 11:33:01 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/14 11:33:01 [notice] 35#35: start worker processes
+2024/03/14 11:33:01 [notice] 35#35: start worker process 36
+2024/03/14 11:33:01 [notice] 35#35: start worker process 37
+2024/03/14 11:33:01 [notice] 35#35: start worker process 38
+2024/03/14 11:33:01 [notice] 35#35: start worker process 39
+2024/03/15 10:31:07 [notice] 37#37: using the "epoll" event method
+2024/03/15 10:31:07 [notice] 37#37: nginx/1.18.0
+2024/03/15 10:31:07 [notice] 37#37: OS: Linux 5.15.49-linuxkit
+2024/03/15 10:31:07 [notice] 37#37: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/15 10:31:07 [notice] 37#37: start worker processes
+2024/03/15 10:31:07 [notice] 37#37: start worker process 38
+2024/03/15 10:31:07 [notice] 37#37: start worker process 39
+2024/03/15 10:31:07 [notice] 37#37: start worker process 40
+2024/03/15 10:31:07 [notice] 37#37: start worker process 41
+2024/03/20 13:44:57 [notice] 35#35: using the "epoll" event method
+2024/03/20 13:44:57 [notice] 35#35: nginx/1.18.0
+2024/03/20 13:44:57 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/20 13:44:57 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/20 13:44:57 [notice] 35#35: start worker processes
+2024/03/20 13:44:57 [notice] 35#35: start worker process 36
+2024/03/20 13:44:57 [notice] 35#35: start worker process 37
+2024/03/20 13:44:57 [notice] 35#35: start worker process 38
+2024/03/20 13:44:57 [notice] 35#35: start worker process 39
+2024/03/22 10:04:13 [notice] 35#35: using the "epoll" event method
+2024/03/22 10:04:13 [notice] 35#35: nginx/1.18.0
+2024/03/22 10:04:13 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/22 10:04:13 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/22 10:04:13 [notice] 35#35: start worker processes
+2024/03/22 10:04:13 [notice] 35#35: start worker process 36
+2024/03/22 10:04:13 [notice] 35#35: start worker process 37
+2024/03/22 10:04:13 [notice] 35#35: start worker process 38
+2024/03/22 10:04:13 [notice] 35#35: start worker process 39
+2024/03/25 10:32:19 [notice] 35#35: using the "epoll" event method
+2024/03/25 10:32:19 [notice] 35#35: nginx/1.18.0
+2024/03/25 10:32:19 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/25 10:32:19 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/25 10:32:19 [notice] 35#35: start worker processes
+2024/03/25 10:32:19 [notice] 35#35: start worker process 36
+2024/03/25 10:32:19 [notice] 35#35: start worker process 37
+2024/03/25 10:32:19 [notice] 35#35: start worker process 38
+2024/03/25 10:32:19 [notice] 35#35: start worker process 39
+2024/03/26 11:42:35 [notice] 35#35: using the "epoll" event method
+2024/03/26 11:42:35 [notice] 35#35: nginx/1.18.0
+2024/03/26 11:42:35 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/26 11:42:35 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/26 11:42:35 [notice] 35#35: start worker processes
+2024/03/26 11:42:35 [notice] 35#35: start worker process 36
+2024/03/26 11:42:35 [notice] 35#35: start worker process 37
+2024/03/26 11:42:35 [notice] 35#35: start worker process 38
+2024/03/26 11:42:35 [notice] 35#35: start worker process 39
+2024/03/26 20:23:24 [notice] 35#35: using the "epoll" event method
+2024/03/26 20:23:24 [notice] 35#35: nginx/1.18.0
+2024/03/26 20:23:24 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/03/26 20:23:24 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/03/26 20:23:24 [notice] 35#35: start worker processes
+2024/03/26 20:23:24 [notice] 35#35: start worker process 36
+2024/03/26 20:23:24 [notice] 35#35: start worker process 37
+2024/03/26 20:23:24 [notice] 35#35: start worker process 38
+2024/03/26 20:23:24 [notice] 35#35: start worker process 39
+2024/04/01 17:13:41 [notice] 35#35: signal 15 (SIGTERM) received from 1, exiting
+2024/04/01 17:13:41 [notice] 39#39: exiting
+2024/04/01 17:13:41 [notice] 37#37: exiting
+2024/04/01 17:13:41 [notice] 36#36: exiting
+2024/04/01 17:13:41 [notice] 38#38: exiting
+2024/04/01 17:13:41 [notice] 36#36: exit
+2024/04/01 17:13:41 [notice] 39#39: exit
+2024/04/01 17:13:41 [notice] 38#38: exit
+2024/04/01 17:13:41 [notice] 37#37: exit
+2024/04/01 17:13:41 [notice] 35#35: signal 14 (SIGALRM) received
+2024/04/01 17:13:42 [notice] 35#35: signal 14 (SIGALRM) received
+2024/04/01 17:13:42 [notice] 35#35: signal 17 (SIGCHLD) received from 38
+2024/04/01 17:13:42 [notice] 35#35: worker process 38 exited with code 0
+2024/04/01 17:13:42 [notice] 35#35: signal 29 (SIGIO) received
+2024/04/01 17:13:42 [notice] 35#35: signal 17 (SIGCHLD) received from 39
+2024/04/01 17:13:42 [notice] 35#35: worker process 39 exited with code 0
+2024/04/01 17:13:42 [notice] 35#35: signal 29 (SIGIO) received
+2024/04/01 17:13:42 [notice] 35#35: signal 17 (SIGCHLD) received from 36
+2024/04/01 17:13:42 [notice] 35#35: worker process 36 exited with code 0
+2024/04/01 17:13:42 [notice] 35#35: worker process 37 exited with code 0
+2024/04/01 17:13:42 [notice] 35#35: exit
+2024/04/01 17:15:50 [notice] 35#35: using the "epoll" event method
+2024/04/01 17:15:50 [notice] 35#35: nginx/1.18.0
+2024/04/01 17:15:50 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/04/01 17:15:50 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/04/01 17:15:50 [notice] 35#35: start worker processes
+2024/04/01 17:15:50 [notice] 35#35: start worker process 36
+2024/04/01 17:15:50 [notice] 35#35: start worker process 37
+2024/04/01 17:15:50 [notice] 35#35: start worker process 38
+2024/04/01 17:15:50 [notice] 35#35: start worker process 39
+2024/04/03 10:25:00 [notice] 35#35: signal 15 (SIGTERM) received from 1, exiting
+2024/04/03 10:25:00 [notice] 36#36: exiting
+2024/04/03 10:25:00 [notice] 37#37: exiting
+2024/04/03 10:25:00 [notice] 38#38: exiting
+2024/04/03 10:25:00 [notice] 39#39: exiting
+2024/04/03 10:25:00 [notice] 39#39: exit
+2024/04/03 10:25:00 [notice] 37#37: exit
+2024/04/03 10:25:00 [notice] 38#38: exit
+2024/04/03 10:25:00 [notice] 36#36: exit
+2024/04/03 10:25:00 [notice] 35#35: signal 14 (SIGALRM) received
+2024/04/03 10:25:00 [notice] 35#35: signal 14 (SIGALRM) received
+2024/04/03 10:25:00 [notice] 35#35: signal 14 (SIGALRM) received
+2024/04/03 10:25:01 [notice] 35#35: signal 17 (SIGCHLD) received from 36
+2024/04/03 10:25:01 [notice] 35#35: worker process 36 exited with code 0
+2024/04/03 10:25:01 [notice] 35#35: worker process 39 exited with code 0
+2024/04/03 10:25:01 [notice] 35#35: signal 29 (SIGIO) received
+2024/04/03 10:25:01 [notice] 35#35: signal 17 (SIGCHLD) received from 39
+2024/04/03 10:25:01 [notice] 35#35: worker process 37 exited with code 0
+2024/04/03 10:25:01 [notice] 35#35: worker process 38 exited with code 0
+2024/04/03 10:25:01 [notice] 35#35: exit
+2024/04/03 10:29:04 [notice] 35#35: using the "epoll" event method
+2024/04/03 10:29:04 [notice] 35#35: nginx/1.18.0
+2024/04/03 10:29:04 [notice] 35#35: OS: Linux 5.15.49-linuxkit
+2024/04/03 10:29:04 [notice] 35#35: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/04/03 10:29:04 [notice] 35#35: start worker processes
+2024/04/03 10:29:04 [notice] 35#35: start worker process 36
+2024/04/03 10:29:04 [notice] 35#35: start worker process 37
+2024/04/03 10:29:04 [notice] 35#35: start worker process 38
+2024/04/03 10:29:04 [notice] 35#35: start worker process 39
+2024/04/05 18:17:26 [notice] 35#35: signal 15 (SIGTERM) received from 1, exiting
+2024/04/05 18:17:26 [notice] 36#36: exiting
+2024/04/05 18:17:26 [notice] 39#39: exiting
+2024/04/05 18:17:26 [notice] 39#39: exit
+2024/04/05 18:17:26 [notice] 36#36: exit
+2024/04/05 18:17:26 [notice] 37#37: exiting
+2024/04/05 18:17:26 [notice] 38#38: exiting
+2024/04/05 18:17:26 [notice] 37#37: exit
+2024/04/05 18:17:26 [notice] 38#38: exit
+2024/04/05 18:17:26 [notice] 35#35: signal 17 (SIGCHLD) received from 37
+2024/04/05 18:17:26 [notice] 35#35: worker process 36 exited with code 0
+2024/04/05 18:17:26 [notice] 35#35: worker process 37 exited with code 0
+2024/04/05 18:17:26 [notice] 35#35: signal 14 (SIGALRM) received
+2024/04/05 18:17:26 [notice] 35#35: signal 17 (SIGCHLD) received from 39
+2024/04/05 18:17:26 [notice] 35#35: worker process 39 exited with code 0
+2024/04/05 18:17:26 [notice] 35#35: worker process 38 exited with code 0
+2024/04/05 18:17:26 [notice] 35#35: signal 17 (SIGCHLD) received from 38
+2024/04/05 18:17:26 [notice] 35#35: exit
